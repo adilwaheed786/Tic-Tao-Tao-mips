@@ -1,5 +1,5 @@
 
-
+#CAO-3A (ADIL WAEED[082],ABDULLA IBAL[076],SUMMAYA KHALID[057],RABIYA ESSANI[081])
 .data
 board: .asciiz "  1   2   3\n1   |   |   \n ---+---+---\n2   |   |   \n ---+---+---\n3   |   |   \n"
 askMove: .asciiz "Player   insert your play (column|line):"
